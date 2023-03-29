@@ -1,3 +1,3 @@
 # cnn-drug-discovery
 
-Biological activity classification of HIV compounds.
+Biological activity classification of HIV compounds using pytorch.
